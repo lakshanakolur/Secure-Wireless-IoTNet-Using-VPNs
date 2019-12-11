@@ -6,8 +6,12 @@ The Internet of Things (IoT) is an exploding market as well as a important focus
 
 #### Our Campus Network 
 
+![pt](https://user-images.githubusercontent.com/33753405/70592935-5a139800-1c01-11ea-81f3-205af114e1aa.png)
+ 
 #### GUI
+
+<img width="634" alt="gui" src="https://user-images.githubusercontent.com/33753405/70592933-597b0180-1c01-11ea-906c-9418540ba150.png">
 
 #### Logging of Data
 
-
+<img width="602" alt="log" src="https://user-images.githubusercontent.com/33753405/70592934-5a139800-1c01-11ea-8a71-a63a8271f00d.png">
